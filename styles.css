@@ -1,0 +1,70 @@
+
+* {
+  margin: 0%;
+  padding: 0%;
+  background-color:#F0F8FF ;
+}
+
+.page{
+
+display: flex;
+flex-direction: column ;
+width: 70%;
+height: 50rem;
+margin: 0 auto;
+align-items: center;
+justify-content: center;
+
+
+}
+
+
+p{
+  margin: 1rem ;
+  width: 280px;
+  height: 49px;
+  border: 2px solid #BB99DD;
+  box-sizing: border-box;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 40px ;
+
+}
+
+
+ul{
+  
+  margin-top: 1rem;
+
+  list-style: none;
+  padding: 0;
+
+  display: flex;
+  gap: 2.5rem;
+
+ 
+  
+
+}
+
+.avatar{
+  
+  
+ 
+
+  width: 290px;
+height: 320px;
+
+
+}
+
+.avatar img{
+  
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+}
+
+
+
+
